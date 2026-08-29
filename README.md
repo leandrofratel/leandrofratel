@@ -27,14 +27,16 @@ Pipeline completo de Engenharia de Dados utilizando Go + Python + Power BI.
 
 🔗 Repositório: `THE_RICK_AND_MORTY`
 
-### Chiral Lake (CAIM)
+### Image-to-Pencil-Sketch
 
-Sistema de análise contextual de documentos usando RAG e Grafos.
+Pipeline de Engenharia de Dados que transforma imagens comuns em desenhos no estilo **pencil sketch**, utilizando uma arquitetura em camadas inspirada em Data Lakes.
 
-- Extração de entidades
-- Banco orientado a documentos
-- Grafo de relacionamentos
-- Recuperação contextual
+- Estrutura modular orientada a Engenharia de Dados
+- Pipeline desacoplado (Extract, Transform e Load)
+- Processamento de imagens como fluxo de dados
+- Geração de metadados e persistência em camadas
+
+🔗 **Repositório:** `Image-to-Pencil-Sketch`
 
 ---
 
